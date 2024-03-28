@@ -1,0 +1,1 @@
+data from  https://data.world/the-pudding/colorism-in-high-fashion/workspace/data-dictionary 
